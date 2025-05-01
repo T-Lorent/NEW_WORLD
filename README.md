@@ -1,5 +1,5 @@
 # 🐻 TOTOROLAND 🐻
-Unity autonom world rules by a combination of 4 biological inspired algorithms :
+Unity autonomous world ruled by a combination of 4 biological inspired algorithms :
 - Fractals (Diamond Square map generation, LSystem based trees);
 - Genetic Algorithm (Tree population evolution);
 - Game Of Life (Flowers evolution);
